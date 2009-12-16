@@ -1,5 +1,4 @@
-#summary Source Code at SourceForge
-
+#summary Get the Source Code
 = Browse =
 
 http://shinyprofiler.svn.sourceforge.net/viewvc/shinyprofiler/
@@ -7,7 +6,7 @@ http://shinyprofiler.svn.sourceforge.net/viewvc/shinyprofiler/
 
 = Subversion Access =
 
-This project's SourceForge.net Subversion repository can be checked out through SVN with the following instruction set:
+This project's !SourceForge.net Subversion repository can be checked out through SVN with the following instruction set:
 
 {{{
 svn co https://shinyprofiler.svn.sourceforge.net/svnroot/shinyprofiler shinyprofiler
