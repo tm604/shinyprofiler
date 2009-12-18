@@ -1,4 +1,4 @@
-#summary Get the Source Code
+#summary Get it at SourceForge
 = Browse =
 
 http://shinyprofiler.svn.sourceforge.net/viewvc/shinyprofiler/
