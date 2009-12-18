@@ -1,13 +1,16 @@
 #summary Get it at SourceForge
-= Browse =
 
-http://shinyprofiler.svn.sourceforge.net/viewvc/shinyprofiler/
+=== Browse Subversion ===
 
+The source code to Shiny is held in a central repository hosted by [http://sourceforge.net/scm/?type=svn&group_id=208504 SourceForge] which you can [http://shinyprofiler.svn.sourceforge.net/viewvc/shinyprofiler/ browse online].
 
-= Subversion Access =
+=== Command-line access  ===
 
-This project's !SourceForge.net Subversion repository can be checked out through SVN with the following instruction set:
-
+Use this command to check out the latest source code:
 {{{
-svn co https://shinyprofiler.svn.sourceforge.net/svnroot/shinyprofiler shinyprofiler
+svn checkout https://shinyprofiler.svn.sourceforge.net/svnroot/shinyprofiler shinyprofiler
 }}}
+
+=== GUI and IDE access ===
+
+This project's Subversion repository may be accessed using many different [http://subversion.tigris.org/links.html#clients client programs and plug-ins].
