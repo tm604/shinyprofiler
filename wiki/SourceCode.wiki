@@ -1,4 +1,4 @@
-#summary Get it at SourceForge
+#summary Get the latest working copy
 
 === Browse Subversion ===
 
