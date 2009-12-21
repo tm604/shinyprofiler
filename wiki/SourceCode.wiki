@@ -1,6 +1,6 @@
 #summary Get the latest working copy
 
-=== Browse Subversion ===
+== Where is the repository? ==
 
 The source code to Shiny is held in a central repository hosted by [http://sourceforge.net/scm/?type=svn&group_id=208504 SourceForge] which you can [http://shinyprofiler.svn.sourceforge.net/viewvc/shinyprofiler/ browse online].
 
