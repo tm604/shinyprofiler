@@ -8,7 +8,7 @@ The source code to Shiny is held in a central repository hosted by [http://sourc
 
 Use this command to check out the latest source code anonymously:
 {{{
-svn checkout https://shinyprofiler.svn.sourceforge.net/svnroot/shinyprofiler shinyprofiler
+svn checkout https://shinyprofiler.svn.sourceforge.net/svnroot/shinyprofiler/trunk shinyprofiler
 }}}
 
 === GUI and IDE access ===
