@@ -2,13 +2,13 @@
 
 == Where is the repository? ==
 
-The source code to Shiny is held in a central repository hosted by [http://sourceforge.net/scm/?type=svn&group_id=208504 SourceForge] which you can [http://shinyprofiler.svn.sourceforge.net/viewvc/shinyprofiler/ browse online].
+The source code to Shiny is held in a central SVN repository hosted by [http://sourceforge.net/ sourceforge.net] which you can [http://sourceforge.net/p/shinyprofiler/code/HEAD/tree/ browse online].
 
 === Command-line access  ===
 
 Use this command to check out the latest source code anonymously:
 {{{
-svn checkout https://shinyprofiler.svn.sourceforge.net/svnroot/shinyprofiler/trunk shinyprofiler
+svn checkout svn://svn.code.sf.net/p/shinyprofiler/code/trunk/ shinyprofiler
 }}}
 
 === GUI and IDE access ===
